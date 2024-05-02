@@ -1,0 +1,15 @@
+*{
+    padding-top: 30px;
+    margin: 0;
+    font-family:'Poppins', sans-serif;
+}
+
+body{
+    background-color: #fff;
+}
+
+button{
+    border-radius: 10px;
+    text-align: center;
+    align-self: center;
+}
